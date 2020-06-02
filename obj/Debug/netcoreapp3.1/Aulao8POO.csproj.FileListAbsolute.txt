@@ -1,0 +1,13 @@
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aulao8POO\bin\Debug\netcoreapp3.1\Aulao8POO.exe
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aulao8POO\bin\Debug\netcoreapp3.1\Aulao8POO.deps.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aulao8POO\bin\Debug\netcoreapp3.1\Aulao8POO.runtimeconfig.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aulao8POO\bin\Debug\netcoreapp3.1\Aulao8POO.runtimeconfig.dev.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aulao8POO\bin\Debug\netcoreapp3.1\Aulao8POO.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aulao8POO\bin\Debug\netcoreapp3.1\Aulao8POO.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aulao8POO\obj\Debug\netcoreapp3.1\Aulao8POO.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aulao8POO\obj\Debug\netcoreapp3.1\Aulao8POO.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aulao8POO\obj\Debug\netcoreapp3.1\Aulao8POO.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aulao8POO\obj\Debug\netcoreapp3.1\Aulao8POO.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aulao8POO\obj\Debug\netcoreapp3.1\Aulao8POO.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aulao8POO\obj\Debug\netcoreapp3.1\Aulao8POO.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aulao8POO\obj\Debug\netcoreapp3.1\Aulao8POO.genruntimeconfig.cache
